@@ -16,6 +16,7 @@ A modern premium web platform built with HTML, CSS, and JavaScript.
 - HTML5
 - CSS3
 - JavaScript
+- Bootstrap 5
 
 ## Preview
 
